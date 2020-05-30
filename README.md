@@ -1,2 +1,2 @@
-# AndroidPluginDemo
-Android插架化实现Demo。集成ARouter跳转和传值。
+# AndroidComponentsDemo
+Android组件化实现Demo。集成ARouter跳转和传值。Kotlin语言
